@@ -1,0 +1,6 @@
+{
+  "name": "BazaarVoice - Grocery Voice Audio Generator",
+  "description": "Listen to voice previews and generate speech audio for your grocery script in multiple voice styles including female, male, child, and regional accents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
